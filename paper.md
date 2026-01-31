@@ -16,7 +16,7 @@ affiliation: 1
 affiliations:
 * name: Department of Electrical and Electronics Engineering, University of Lagos, Nigeria
 index: 1
-date: 31 January 2026
+date: September 2025
 bibliography: paper.bib
 
 ```
