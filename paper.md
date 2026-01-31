@@ -13,8 +13,6 @@ authors:
 * name: Ajibade, Ibrahim Adebowale
 corresponding: true
 affiliation: 1
-* name: Prof. P. O. Oluseyi
-affiliation: 1
 affiliations:
 * name: Department of Electrical and Electronics Engineering, University of Lagos, Nigeria
 index: 1
