@@ -1,4 +1,4 @@
----
+```
 
 title: 'Design and Development of a Smart Energy Management System for UNILAG, Akoka Campus'
 tags:
@@ -21,7 +21,7 @@ index: 1
 date: 31 January 2026
 bibliography: paper.bib
 
----
+```
 
 # Summary
 
