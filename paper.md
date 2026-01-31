@@ -9,7 +9,7 @@ tags:
 * LSTM
 * Energy Forecasting
 * Sustainable Development
-authors:
+author:
 * name: Ajibade, Ibrahim Adebowale
 corresponding: true
 affiliation: 1
@@ -72,12 +72,6 @@ The model demonstrated robust performance across different feeders, such as Feed
 # Visualization and Insights
 
 The deployed dashboard (Figure 4.15) allows managers to filter data by day, week, or month to visualize energy predictions and estimated costs. Analysis revealed that demand is heavily influenced by academic cycles, with reduced loads during semester breaks and peaks during examination periods.
-
-# Mathematical Framework
-
-The LSTM gates—Input (), Forget (), and Output ()—are governed by the following sigmoid () functions:
-
-The final evaluation for accuracy is calculated as:
 
 # Conclusion
 
